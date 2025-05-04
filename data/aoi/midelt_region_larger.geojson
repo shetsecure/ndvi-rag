@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Midelt Region"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.78,
+              32.66
+            ],
+            [
+              -4.72,
+              32.66
+            ],
+            [
+              -4.72,
+              32.70
+            ],
+            [
+              -4.78,
+              32.70
+            ],
+            [
+              -4.78,
+              32.66
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+} 
